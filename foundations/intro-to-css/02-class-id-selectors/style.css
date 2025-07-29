@@ -4,3 +4,8 @@
     font-weight: 700;
     font-family:'Times New Roman', Verdana, 'DejaVu Sans', sans-serif;
 }
+
+#blue-text {
+    color: #0000ff;
+    font-size: 36px;
+}
